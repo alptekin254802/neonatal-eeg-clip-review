@@ -1,0 +1,10 @@
+Measure,Development,Participant holdout
+Infants / infants with targets,40 / 14,39 / 13
+Target event–reader instances,55,90
+Network captured instances,15,29
+Uniform expected captured instances,4.90,8.68
+Proximity captured instances,3,8
+"Network / uniform mean capture, %",25.1 / 8.8,41.1 / 11.1
+Network minus uniform (95% interval),16.3 (2.0 to 33.0),30.0 (9.6 to 51.4)
+Network minus proximity (95% interval),22.6 (8.8 to 38.3),22.6 (−6.6 to 50.4)
+Captured instances with 10 consecutive seconds displayed,13,29

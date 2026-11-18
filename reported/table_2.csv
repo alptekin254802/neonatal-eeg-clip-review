@@ -1,0 +1,12 @@
+Measure,Development,Participant holdout
+Simulated readings,120,117
+Selected clips,738,767
+"Mean displayed EEG per reading, minutes",3.08,3.28
+Network target-overlapping clips,17,38
+"Network target-overlapping clips, %",2.30,4.95
+Uniform expected target-overlapping clips,4.88,8.94
+"Uniform expected target-overlapping clips, %",0.66,1.17
+"Clip enrichment, fold",3.48,4.25
+Target-free clips unmarked by either other expert,662,669
+Target-free clips marked by exactly one other expert,55,56
+Target-free clips with simultaneous marks failing target definition,4,4
