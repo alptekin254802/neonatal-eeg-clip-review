@@ -33,6 +33,8 @@ The download checks the EDF and annotation files against the checksums in the ve
 
 ## Reproduction
 
+The [analysis plan summary](docs/analysis_plan.md) identifies the prespecified holdout comparison and the descriptive analyses added after evaluation.
+
 ```powershell
 python src/score.py --data data --output scores --check-preprocessing
 python src/score.py --data data --output scores
